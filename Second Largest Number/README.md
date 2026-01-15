@@ -14,7 +14,7 @@ Output Format
 
 Print the runner-up score.
 ```
-
+```
 Sample Input 0
 
 5
@@ -23,3 +23,4 @@ Sample Input 0
 Sample Output 0
 
 5
+```
