@@ -9,10 +9,11 @@ Input Format
 The first line contains . 
 The second line contains an array   of  integers each separated by a space.
  ```
-
+```
 Output Format
 
 Print the runner-up score.
+```
 
 Sample Input 0
 
